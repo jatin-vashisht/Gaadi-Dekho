@@ -5,7 +5,7 @@ import { Footer, Navbar } from "@/components";
 export const metadata: Metadata = {
   title: "Gaadi Dekho",
   description:
-    "Thinking of buying a car? At CarDekho.com, buy new and used cars, search by filter and preferences, compare cars, read latest news and updates, see 360 views & more!",
+    "Thinking of buying a car? At GaadiDekho.com, buy new and used cars, search by filter and preferences, compare cars, read latest news and updates, see 360 views & more!",
 };
 
 export default function RootLayout({
